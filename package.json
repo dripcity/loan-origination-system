@@ -101,7 +101,7 @@
     "pluralize": "^7.0.0",
     "prettysize": "^2.0.0",
     "promise-queue": "^2.2.5",
-    "protobufjs": "^6.8.8",
+    "protobufjs": "^8.0.1",
     "random-js": "^1.0.8",
     "react-color": "^2.17.3",
     "react-countup": "^4.1.3",
